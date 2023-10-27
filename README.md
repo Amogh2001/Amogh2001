@@ -1,6 +1,6 @@
 Hello! 
 
-My name is Amogh Sanjay and I am a fourth year mechanical engineering student at B.M.S College of Engineering, Bangalore.
+My name is Amogh and I am a mechanical engineering graduate from B.M.S College of Engineering, Bangalore.
 
 I am interested in scientific computing and numerical methods as well as applying these concepts in the fields of fluid mechanics and climate modelling.
 
