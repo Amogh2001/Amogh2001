@@ -1,6 +1,6 @@
 Hello! 
 
-My name is Amogh and I am a computational science graduate student at Uppsala University, Sweden..
+My name is Amogh and I am a computational science graduate student at Uppsala University, Sweden.
 
 I am excited to learn new concepts and to share my code with others.
 
